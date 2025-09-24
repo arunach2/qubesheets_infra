@@ -1,0 +1,13 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Terraform directories
+.terraform/
+
+# Ignore ZIP archives
+*.zip
+
+# Ignore .DS_Store file
+*.DS_Store
+.DS_Store
